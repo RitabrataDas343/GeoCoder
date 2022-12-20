@@ -1,5 +1,5 @@
 # GeoCoder
-  Use This FREE Script to Track Any Phone Number Location Using Python.
+  Use This Script to Track Any Phone Number Location Using Python.
   
 # How to Run This Script:
  1. Install The Necessary Libraries: 
